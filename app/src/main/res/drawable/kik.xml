@@ -1,0 +1,7 @@
+<vector android:autoMirrored="true" android:height="24dp"
+    android:viewportHeight="285" android:viewportWidth="435"
+    android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <clip-path android:pathData="M220.12,145.63m-134.62,0a134.62,134.62 0,1 1,269.24 0a134.62,134.62 0,1 1,-269.24 0 M 0,0"/>
+    </group>
+</vector>

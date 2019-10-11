@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".finalp">
+
+    <RadioGroup
+        android:id="@+id/rg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+
+        >
+
+        <RadioButton
+            android:id="@+id/dogr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="dog"
+
+            />
+
+        <RadioButton
+            android:id="@+id/catr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="cat" />
+
+        <RadioButton
+            android:id="@+id/cowr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="cow" />
+
+    </RadioGroup>
+    <Button
+        android:id="@+id/rb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="submit"
+        android:layout_gravity="center"
+        />
+
+    <CheckBox
+        android:id="@+id/dog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:text="DOG" />
+
+    <CheckBox
+        android:id="@+id/cat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="cat" />
+
+    <CheckBox
+        android:id="@+id/cow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="cow" />
+
+    <Button
+        android:id="@+id/submitc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="submit c" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Switch" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <EditText
+        android:id="@+id/input"
+        android:layout_width="fill_parent"
+        android:layout_height="76dp"
+        android:inputType="textCapSentences|textLongMessage|textMultiLine"
+
+        />
+    <Button
+        android:id="@+id/submiti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="submit"
+        android:onClick="inputs"
+        />
+</LinearLayout>

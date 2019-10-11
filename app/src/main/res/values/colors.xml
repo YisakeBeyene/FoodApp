@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFF56438</color>
+    <color name="colorPrimaryDark">#d15e17</color>
+    <color name="colorAccent">#F56438</color>
+    <color name="back">#FFF56438</color>
+    <color name="yetsom">#9cd117</color>
+    <color name="yefisik">#d15e17</color>
+    <color name="line">#b3b5af</color>
+    <color name="white">#ffffff</color>
+    <color name="mainText">#000000</color>
+</resources>

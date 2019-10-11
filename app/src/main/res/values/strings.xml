@@ -1,0 +1,172 @@
+<resources>
+    //yetsom titles
+    <string name="app_name">Habesha Recipe</string>
+    <string name="shiro_title"> shiro wot </string>
+    <string name="gomen_title">gomen</string>
+    <string name="kik_title">Kik wot</string>
+    //yetsom short description
+    <string name="shiro_short_desc">Ingridients: sega, chew, zeyt,\n utensils:mekakelegna\ndist,mamaseya</string>
+    <string name="gomen_desc">Ingridients: sega, chew, zeyt,\n utensils:mekakelegna\ndist,mamaseya</string>
+    <string name="kik_wot_desc">Ingridients: sega, chew, zeyt,\n utensils:mekakelegna\ndist,mamaseya</string>
+
+
+    // yetsom description
+    <string name="shiro_description">shiro shiro
+    1/2 cup Shiro powder (see bottom of post for more info and where to buy)\n
+    1 small onion\n
+    2 cloves garlic\n
+    1/4 cup olive oil\n
+    1 tsp Berbere\n
+    2.5 cups water\n
+    Salt as needed\n
+
+1) Finely chop onion and garlic and in a medium pot, sautee with olive oil for about 3-4 minutes. Add Berbere spice and a couple of tablespoons of water and simmer for about 4-5 minutes, stirring occasionally. Add the remaining water to the pot and carefully whisk in shiro powder a teaspoon at a time until completely combined. Let cook on low heat until it becomes thick but smooth – about 15 minutes. Salt to taste. Serve hot with Injera on the side.
+    </string>
+    <string name="gomen_description">Ingredients\n
+
+    1/4 cup (36.25 g) dry split yellow peas soak overnight or 2 hours\n
+    1/4 cup (36.25 g) dry split green peas soak overnight or 2 hours\n
+    1 1/2 cups (375 ml) water\n
+    2 teaspoons oil\n
+    1/2 (0.5 ) red onion chopped\n
+    4-5 garlic cloves minced\n
+    2 teaspoons ginger minced\n
+    1/3 teaspoon (0.33 teaspoon) turmeric powder\n
+    1/2 teaspoon (0.5 teaspoon) salt or to taste\n
+    black pepper to taste\n
+
+Variations\n
+
+    Add a 1/2 teaspoon berbere spice blend for a spicier Wat version\n
+    Add a chopped Serrano pepper.\n
+
+Instructions\n
+
+    Soak the split peas overnight or at least 2 hours in warm water, drain and rinse.\n
+    In a deep pan, add oil, add onions, ginger and garlic and cook stirring occasionally, until translucent.(add chopped Serrano or Jalapeno if using)\n
+    Add the turmeric and mix well.\n
+    Add rinsed split peas, salt, pepper and water. Mix, cover and bring to a boil on medium heat.\n
+    Reduce heat to low and simmer, partially covered for 35-45 minutes or until peas have softened to your desired consistency. Taste and adjust salt and spice if needed.\n
+    Or use a Pressure cooker: Pressure cook for 1 whistle on high and then on low for 15 minutes. ( Pressure cook for 8 to 10 minutes after the pressure is reached for electric pressure cooker, then natural release). The pictures are of the pressure cooked stew.\n
+    Mash the peas if desired. Add some lemon juice if desired and serve. Tastes best with a sour flat bread like Injera.</string>
+    <string name="kik_wot_description">Ingredients\n
+
+    1/4 cup (36.25 g) dry split yellow peas soak overnight or 2 hours\n
+    1/4 cup (36.25 g) dry split green peas soak overnight or 2 hours\n
+    1 1/2 cups (375 ml) water\n
+    2 teaspoons oil\n
+    1/2 (0.5 ) red onion chopped\n
+    4-5 garlic cloves minced\n
+    2 teaspoons ginger minced\n
+    1/3 teaspoon (0.33 teaspoon) turmeric powder\n
+    1/2 teaspoon (0.5 teaspoon) salt or to taste\n
+    black pepper to taste\n
+
+Variations\n
+
+    Add a 1/2 teaspoon berbere spice blend for a spicier Wat version\n
+    Add a chopped Serrano pepper.\n
+
+Instructions\n
+
+    Soak the split peas overnight or at least 2 hours in warm water, drain and rinse.\n
+    In a deep pan, add oil, add onions, ginger and garlic and cook stirring occasionally, until translucent.(add chopped Serrano or Jalapeno if using)\n
+    Add the turmeric and mix well.\n
+    Add rinsed split peas, salt, pepper and water. Mix, cover and bring to a boil on medium heat.\n
+    Reduce heat to low and simmer, partially covered for 35-45 minutes or until peas have softened to your desired consistency. Taste and adjust salt and spice if needed.\n
+    Or use a Pressure cooker: Pressure cook for 1 whistle on high and then on low for 15 minutes. ( Pressure cook for 8 to 10 minutes after the pressure is reached for electric pressure cooker, then natural release). The pictures are of the pressure cooked stew.\n
+    Mash the peas if desired. Add some lemon juice if desired and serve. Tastes best with a sour flat bread like Injera.</string>
+
+
+    //yefisik titles;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    <string name="kitfo_title"> Kitfo </string>
+    <string name="sheklatibs_title">shekla tibs</string>
+    <string name="dulet_title">dulet</string>
+    //Yefisik short description
+    <string name="kitfo_short_desc">Ingridients: sega, chew, zeyt,\n utensils:mekakelegna\ndist,mamaseya</string>
+    <string name="Shekila_tibs_short_desc">Ingridients: sega, chew, zeyt,\n utensils:mekakelegna\ndist,mamaseya</string>
+    <string name="dulet_short_desc">Ingridients: sega, chew, zeyt,\n utensils:mekakelegna\ndist,mamaseya</string>
+
+    //yefisik description;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    <string name="kitfo_description">
+
+2 lbs top round beef (freshly cut)\n
+6 teaspoons ground cayenne pepper (Mitmita*)\n
+4 tablespoons clarified butter (Nitir Kebe)\n
+1 teaspoon cardamom powder (korerima)\n
+1⁄4 teaspoon garlic powder (optional)\n
+salt and black pepperCut the meat in small pieces; remove fat and seams.\n
+In a food processor put small amount of the meat at a time, spread some mitmita, grind until meat is finely chopped; using a fork, remove any residue of fat and seams; place the spicy ground meat in a dish; repeat the process until all required meat is done.
+In small pot, on a lower heat melt the butter, add the remaining mitmita, false cardamom, (garlic, black pepper, salt, if needed); remove from heat.
+Combine the spicy ground meat with the spicy butter; using fork and spoon, mix it until completely marinated.
+Place it in a lightly warm serving dish, serve it immediately with Injera or bread. If preferred, sauté the marinated meat for two to three minutes.
+
+
+</string>
+    <string name="shekl_tibs_description">Ingredients\n
+
+    1 large red onion, about 2 cups, sliced thin\n
+    1/4 cup niter kebbeh or ghee spiced butter\n
+    2 pounds venison, lamb or beef, cut into bite-sized pieces\n
+    2 tablespoons berbere\n
+    1 teaspoon ground fenugreek\n
+    1/2 teaspoon cardamom (optional)\n
+    1/2 teaspoon ground ginger\n
+    1/4 teaspoon cumin\n
+    1/4 teaspoon ground clove\n
+    1 teaspoon black pepper\n
+    3 to 4 garlic cloves, sliced thinly\n
+    2 cups whole peeled tomatoes, broken into bits\n
+    1 to 5 green chiles, such as jalapenos or serranos\n
+    1/2 cup red wine\n
+
+Instructions\n
+
+    Get the saute pan or wok very hot. Stir-fry the onions without the butter for a few minutes, until they char just a little on the outside. Add the spiced butter and the venison. Stir-fry hot and fast until the outside of the meat is brown but the inside of the meat is still very rare. You need to do this on as hot a burner as you have. Do it in two batches unless you have a very large wok or pan.
+    The moment the meat has browned, add it all back into the pan along with the spices, garlic and chiles. Stir-fry another 30 seconds or so, then add the tomatoes and the wine. Toss to combine and let this cook for a minute or two. Serve at once with bread or injera.
+
+
+</string>
+    <string name="dulet_description">Ingredients\n
+
+    1/4 cup (36.25 g) dry split yellow peas soak overnight or 2 hours\n
+    1/4 cup (36.25 g) dry split green peas soak overnight or 2 hours\n
+    1 1/2 cups (375 ml) water\n
+    2 teaspoons oil\n
+    1/2 (0.5 ) red onion chopped\n
+    4-5 garlic cloves minced\n
+    2 teaspoons ginger minced\n
+    1/3 teaspoon (0.33 teaspoon) turmeric powder\n
+    1/2 teaspoon (0.5 teaspoon) salt or to taste\n
+    black pepper to taste\n
+
+Variations\n
+
+    Add a 1/2 teaspoon berbere spice blend for a spicier Wat version\n
+    Add a chopped Serrano pepper.\n
+
+Instructions\n
+
+    Soak the split peas overnight or at least 2 hours in warm water, drain and rinse.\n
+    In a deep pan, add oil, add onions, ginger and garlic and cook stirring occasionally, until translucent.(add chopped Serrano or Jalapeno if using)\n
+    Add the turmeric and mix well.\n
+    Add rinsed split peas, salt, pepper and water. Mix, cover and bring to a boil on medium heat.\n
+    Reduce heat to low and simmer, partially covered for 35-45 minutes or until peas have softened to your desired consistency. Taste and adjust salt and spice if needed.\n
+    Or use a Pressure cooker: Pressure cook for 1 whistle on high and then on low for 15 minutes. ( Pressure cook for 8 to 10 minutes after the pressure is reached for electric pressure cooker, then natural release). The pictures are of the pressure cooked stew.\n
+    Mash the peas if desired. Add some lemon juice if desired and serve. Tastes best with a sour flat bread like Injera.
+</string>
+    <string-array name="labels_array">
+        <item>home</item>
+        <item>work</item>
+        <item>mobile</item>
+        <item>others</item>
+    </string-array>
+    <string-array name="my">
+        <item>home</item>
+        <item>work</item>
+        <item>mobile</item>
+        <item>others</item>
+    </string-array>
+
+
+</resources>
